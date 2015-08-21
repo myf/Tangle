@@ -1,3 +1,5 @@
+var sprintf = require('sprintf');
+require('mootools');
 //
 //  Tangle.js
 //  Tangle 0.1.0
@@ -387,4 +389,9 @@ Tangle.classes = {};
 Tangle.formats = {};
 
 Tangle.formats["default"] = function (value) { return "" + value; };
+
+// require Tanglekit to add all the class methods
+require('./TangleKit/TangleKit');
+
+module.exports = Tangle;
 

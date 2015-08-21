@@ -1,0 +1,30 @@
+{
+  "name": "tanglekit",
+  "version": "1.0.0",
+  "description": "bret victor's tangle.js framework modularized",
+  "main": "Tangle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myf/Tangle.git"
+  },
+  "keywords": [
+    "tangle",
+    "bret",
+    "victor",
+    "worrydream",
+    "reactive"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/myf/Tangle/issues"
+  },
+  "homepage": "https://github.com/myf/Tangle#readme",
+  "dependencies": {
+    "mootools": "^1.5.1",
+    "sprintf-js": "^1.0.3"
+  }
+}

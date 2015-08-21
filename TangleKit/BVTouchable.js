@@ -6,7 +6,6 @@
 //  (c) 2011 Bret Victor.  MIT open-source license.
 //
 
-(function () {
 
 var BVTouchable = this.BVTouchable = new Class ({
 
@@ -189,4 +188,4 @@ var BVTouches = this.BVTouches = new Class({
 
 //====================================================================================
 
-})();
+module.exports = BVTouchable;

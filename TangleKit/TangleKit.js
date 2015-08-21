@@ -1,3 +1,4 @@
+var BVTouchable = require('./BVTouchable');
 //
 //  TangleKit.js
 //  Tangle 0.1.0
@@ -7,7 +8,6 @@
 //
 
 
-(function () {
 
 
 //----------------------------------------------------------
@@ -292,5 +292,4 @@ Tangle.formats.percent = function (value) {
     
 //----------------------------------------------------------
 
-})();
 
