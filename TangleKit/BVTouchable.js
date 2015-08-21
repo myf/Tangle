@@ -5,6 +5,7 @@
 //  Created by Bret Victor on 3/10/11.
 //  (c) 2011 Bret Victor.  MIT open-source license.
 //
+require('mootools');
 
 
 var BVTouchable = this.BVTouchable = new Class ({

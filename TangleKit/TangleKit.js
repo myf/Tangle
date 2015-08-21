@@ -1,4 +1,5 @@
 var BVTouchable = require('./BVTouchable');
+var Tangle = require('../Tangle');
 //
 //  TangleKit.js
 //  Tangle 0.1.0
